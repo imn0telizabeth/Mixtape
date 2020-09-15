@@ -1,0 +1,42 @@
+ body{
+          background-image: url(images/film.jpg);
+          background-size:cover;
+          background-repeat: no-repeat;
+          background-attachment:local;
+          background-position: center;
+
+        }
+img {
+          display: block;
+          border-radius: 8px;
+          margin-left: auto;
+          margin-right: auto;
+          width: 95%;
+          height: 95%;
+        }
+h1{
+          border-style: double;
+          text-align: center;
+          font-family: 'Aladin', cursive;
+          font-size: 275%;
+          border-color: darkgrey
+        }
+h3{
+        text-align: center;
+        font-family: 'Merienda One', cursive;
+        font-size: 85%;
+        margin-top: -25px;
+      }
+p{
+        text-size: 75%;
+}
+.credits{
+        font-style: italic;
+        font-weight: regular;
+        font-size: 120%;
+        margin-top: -20px;
+        margin-left: 5px;
+}
+h2{
+
+}
