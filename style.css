@@ -1,5 +1,5 @@
  body{
-          background-image: url(images/film.jpg);
+          background-image: url(images/newoldfilm.jpg);
           background-size:cover;
           background-repeat: no-repeat;
           background-attachment:local;
@@ -19,16 +19,19 @@ h1{
           text-align: center;
           font-family: 'Aladin', cursive;
           font-size: 275%;
-          border-color: darkgrey
+          border-color: darkgrey;
+          color: darkgrey;
         }
 h3{
         text-align: center;
         font-family: 'Merienda One', cursive;
         font-size: 85%;
         margin-top: -25px;
+        color: darkgrey;
       }
 p{
         text-size: 75%;
+        color: darkgrey;
 }
 .credits{
         font-style: italic;
@@ -36,7 +39,4 @@ p{
         font-size: 120%;
         margin-top: -20px;
         margin-left: 5px;
-}
-h2{
-
 }
