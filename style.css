@@ -9,19 +9,24 @@
         }
 img {
           display: block;
-          border-radius: 8px;
+          border-radius: 0px;
           margin-left: auto;
           margin-right: auto;
-          width: 95%;
-          height: 95%;
+          max-width: 95%;
+          max-height: 95%;
+          width: 600px;
+          height: 375px;
+          object-fit: cover;
         }
 h1{
           border-style: double;
+          border-width: thick;
           text-align: center;
           font-family: 'Aladin', cursive;
           font-size: 275%;
-          border-color: darkgrey;
-          color: darkgrey;
+          border-color: black;
+          color: black;
+          margin-top: 8px;
         }
 h3{
         text-align: center;
