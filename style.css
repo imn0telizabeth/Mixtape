@@ -1,4 +1,5 @@
  body{
+          background-color: black;
           background-image: url(images/newoldfilm.jpg);
           background-size:cover;
           background-repeat: no-repeat;
@@ -29,9 +30,8 @@ h3{
         margin-top: -25px;
         color: darkgrey;
       }
-p{
-        text-size: 75%;
-        color: darkgrey;
+h2 {
+  color: darkgrey;
 }
 .credits{
         font-style: italic;
@@ -39,4 +39,16 @@ p{
         font-size: 120%;
         margin-top: -20px;
         margin-left: 5px;
+        color: darkgrey;
+}
+a {   color: darkgrey;
+
+}
+/* visited link */
+a:visited {
+            color: red;
+}
+div {
+  background-color: black;
+  
 }
