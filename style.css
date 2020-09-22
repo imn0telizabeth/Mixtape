@@ -9,7 +9,8 @@
         }
 img {
           display: block;
-          border-radius: 0px;
+          border-style: double;
+          border-width: thick;
           margin-left: auto;
           margin-right: auto;
           max-width: 95%;
@@ -31,9 +32,9 @@ h1{
 h3{
         text-align: center;
         font-family: 'Merienda One', cursive;
-        font-size: 85%;
+        font-size: 80%;
         margin-top: -25px;
-        color: darkgrey;
+        color: black;
       }
 h2 {
     background-color: black;
@@ -55,6 +56,7 @@ h2 {
 }
 a {   color: darkgrey;
   opacity: 100%;
+  font-size: 20px;
 
 }
 /* visited link */
@@ -67,7 +69,6 @@ p.l{
     margin-top: -52px;
     margin-right: 50%;
 }
-a.nav{
-    text-align: left;
-
+p.youtube{
+      text-align: center;
 }
