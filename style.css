@@ -1,6 +1,6 @@
  body{
           background-color: black;
-          background-image: url(images/newoldfilm.jpg);
+          background-image: url(images/redtree.png);
           background-size:cover;
           background-repeat: no-repeat;
           background-attachment:local;
@@ -31,6 +31,7 @@ h3{
         color: darkgrey;
       }
 h2 {
+    background-color: black;
   color: darkgrey;
 }
 .credits{
@@ -40,16 +41,14 @@ h2 {
         margin-top: -20px;
         margin-left: 5px;
         color: darkgrey;
+        opacity: 100%;
+        background-color: black;
 }
-a {   color: darkgrey;
+a {   color: black;
+  opacity: 100%;
 
 }
 /* visited link */
 a:visited {
             color: red;
-}
-div {
-  background-color: black;
-
-
 }
