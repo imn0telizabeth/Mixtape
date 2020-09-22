@@ -71,4 +71,10 @@ p.l{
 }
 p.youtube{
       text-align: center;
+      color: darkgrey;
+
+}
+/*visited link*/
+p.youtbe:visited{
+  color:red;
 }
